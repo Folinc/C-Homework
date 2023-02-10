@@ -1,0 +1,15 @@
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.csproj.AssemblyReference.cache
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.AssemblyInfoInputs.cache
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.AssemblyInfo.cs
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.csproj.CoreCompileInputs.cache
+D:\C#\C# Homework\Seminar 4\task 27\bin\Debug\net6.0\task 27.exe
+D:\C#\C# Homework\Seminar 4\task 27\bin\Debug\net6.0\task 27.deps.json
+D:\C#\C# Homework\Seminar 4\task 27\bin\Debug\net6.0\task 27.runtimeconfig.json
+D:\C#\C# Homework\Seminar 4\task 27\bin\Debug\net6.0\task 27.dll
+D:\C#\C# Homework\Seminar 4\task 27\bin\Debug\net6.0\task 27.pdb
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.dll
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\refint\task 27.dll
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.pdb
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\task 27.genruntimeconfig.cache
+D:\C#\C# Homework\Seminar 4\task 27\obj\Debug\net6.0\ref\task 27.dll

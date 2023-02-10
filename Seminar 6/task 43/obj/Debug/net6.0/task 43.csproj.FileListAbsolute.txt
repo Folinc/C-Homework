@@ -1,0 +1,15 @@
+D:\C#\C# Homework\Seminar 6\task 43\bin\Debug\net6.0\task 43.exe
+D:\C#\C# Homework\Seminar 6\task 43\bin\Debug\net6.0\task 43.deps.json
+D:\C#\C# Homework\Seminar 6\task 43\bin\Debug\net6.0\task 43.runtimeconfig.json
+D:\C#\C# Homework\Seminar 6\task 43\bin\Debug\net6.0\task 43.dll
+D:\C#\C# Homework\Seminar 6\task 43\bin\Debug\net6.0\task 43.pdb
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.csproj.AssemblyReference.cache
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.AssemblyInfoInputs.cache
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.AssemblyInfo.cs
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.csproj.CoreCompileInputs.cache
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.dll
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\refint\task 43.dll
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.pdb
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\task 43.genruntimeconfig.cache
+D:\C#\C# Homework\Seminar 6\task 43\obj\Debug\net6.0\ref\task 43.dll

@@ -1,0 +1,30 @@
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.csproj.AssemblyReference.cache
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.AssemblyInfoInputs.cache
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.AssemblyInfo.cs
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.csproj.CoreCompileInputs.cache
+D:\C#\C# Homework\Homework four\bin\Debug\net6.0\Homework four.exe
+D:\C#\C# Homework\Homework four\bin\Debug\net6.0\Homework four.deps.json
+D:\C#\C# Homework\Homework four\bin\Debug\net6.0\Homework four.runtimeconfig.json
+D:\C#\C# Homework\Homework four\bin\Debug\net6.0\Homework four.dll
+D:\C#\C# Homework\Homework four\bin\Debug\net6.0\Homework four.pdb
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.dll
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\refint\Homework four.dll
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.pdb
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\Homework four.genruntimeconfig.cache
+D:\C#\C# Homework\Homework four\obj\Debug\net6.0\ref\Homework four.dll
+D:\C#\C# Homework\Seminar 1\Homework four\bin\Debug\net6.0\Homework four.exe
+D:\C#\C# Homework\Seminar 1\Homework four\bin\Debug\net6.0\Homework four.deps.json
+D:\C#\C# Homework\Seminar 1\Homework four\bin\Debug\net6.0\Homework four.runtimeconfig.json
+D:\C#\C# Homework\Seminar 1\Homework four\bin\Debug\net6.0\Homework four.dll
+D:\C#\C# Homework\Seminar 1\Homework four\bin\Debug\net6.0\Homework four.pdb
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.csproj.AssemblyReference.cache
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.AssemblyInfoInputs.cache
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.AssemblyInfo.cs
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.csproj.CoreCompileInputs.cache
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.dll
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\refint\Homework four.dll
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.pdb
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\Homework four.genruntimeconfig.cache
+D:\C#\C# Homework\Seminar 1\Homework four\obj\Debug\net6.0\ref\Homework four.dll
